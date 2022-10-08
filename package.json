@@ -1,0 +1,18 @@
+{
+  "name": "sss70-syntax",
+  "theme": "syntax",
+  "version": "0.1.1",
+"description": "หวยใต้ติด3ตัว✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+"keywords": [
+"หวยใต้ติด3ตัว",
+"MELOTTO 282",
+"lottovip 093",
+"MELOTTO 282",
+"lottovip support"
+],
+  "repository": "https://github.com/setteebet/sss70-syntax.git",
+  "license": "MIT",
+  "engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
